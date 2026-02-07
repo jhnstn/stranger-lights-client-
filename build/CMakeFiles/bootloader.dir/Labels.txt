@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/CMakeFiles/bootloader
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/CMakeFiles/bootloader.rule
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/CMakeFiles/bootloader-complete.rule
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/jason/Projects/jhnstn/stranger-lights/client/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

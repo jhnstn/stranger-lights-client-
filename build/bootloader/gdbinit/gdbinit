@@ -1,0 +1,2 @@
+source /Users/jason/Projects/jhnstn/stranger-lights/client/build/bootloader/gdbinit/symbols
+source /Users/jason/Projects/jhnstn/stranger-lights/client/build/bootloader/gdbinit/connect
